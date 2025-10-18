@@ -1,0 +1,30 @@
+admins:
+- cblecker
+- jasonbraganza
+- k8s-ci-robot
+- k8s-github-robot
+- MadhavJivrajani
+- mrbobbytables
+- nikhita
+- palnabarun
+- Priyankasaggu11929
+- thelinuxfoundation
+billing_email: github@kubernetes.io
+default_repository_permission: read
+description: OpenCog - An open-source software project for artificial intelligence
+has_organization_projects: false
+has_repository_projects: true
+members: []
+members_can_create_repositories: false
+name: opencog
+teams:
+  kubernetes-admins:
+    description: Kubernetes GitHub Admins
+    maintainers:
+    - cblecker
+    - MadhavJivrajani
+    - mrbobbytables
+    - nikhita
+    - palnabarun
+    - Priyankasaggu11929
+    privacy: closed
